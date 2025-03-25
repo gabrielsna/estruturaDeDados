@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int vetor [80];
+    int vetor [8];
     cout << "Digite 8 numeros para o vetor: " << endl;
     for (int i = 0; i < 8; i++)
     {
